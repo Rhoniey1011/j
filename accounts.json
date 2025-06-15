@@ -1,0 +1,14 @@
+[
+  {
+    "discord_token": "1",
+    "wallet_address": "0x3dbd482d1ce3be1e51e54b9e40c736acd386589ffaa951864e5c43b7ce573c1d"
+  },
+  {
+    "discord_token": "2",
+    "wallet_address": "0x3c13b52b9ef53deff85379d988e490c13e66a2aa98cabd49b461cb31cff3d2fa"
+  },
+  {
+    "discord_token": "3",
+    "wallet_address": "0x6872b3f1b13986d1a349a4441677c46d65e14de8a2c278b3e51425bc262d2e09"
+  }
+]

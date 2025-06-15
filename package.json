@@ -1,0 +1,14 @@
+{
+  "name": "sui-discord-faucet",
+  "version": "1.0.0",
+  "description": "Auto-send faucet messages on Sui Discord using wallet addresses.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "https-proxy-agent": "^7.0.6"
+  }
+}
